@@ -1,0 +1,10 @@
+flet==0.82.2
+flet-desktop==0.82.2
+flet-web==0.82.2
+requests
+fastapi
+uvicorn[standard]
+mariadb
+pydantic
+email-validator
+python-multipart
